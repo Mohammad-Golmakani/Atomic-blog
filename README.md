@@ -1,0 +1,3 @@
+# Atomic Blog
+
+Practice project
